@@ -1,0 +1,39 @@
+time 2: running process: 3
+time 3: running process: 3
+time 4: running process: 3
+time 5: running process: 3
+time 6: running process: 3
+time 7: running process: 2
+time 8: running process: 2
+time 9: running process: 2
+time 10: running process: 2
+
+Average waiting time: 2.00
+Average turnaround time: 6.50
+Average CPU usage: 81.82%
+time 2: running process: 3
+time 3: running process: 3
+time 4: running process: 3
+time 5: running process: 3
+time 6: running process: 3
+time 7: running process: 2
+time 8: running process: 2
+time 9: running process: 2
+time 10: running process: 2
+
+Average waiting time: 2.00
+Average turnaround time: 6.50
+Average CPU usage: 81.82%
+time 2: running process: 3
+time 3: running process: 3
+time 4: running process: 3
+time 5: running process: 3
+time 6: running process: 3
+time 7: running process: 2
+time 8: running process: 2
+time 9: running process: 2
+time 10: running process: 2
+
+Average waiting time: 2.00
+Average turnaround time: 6.50
+Average CPU usage: 81.82%
